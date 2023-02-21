@@ -1,0 +1,18 @@
+.carusal-img1{
+    background-image: url("./image/carousel/3.jpg");
+    height: 100vh;
+}
+.carusal-img2{
+    background-image: url("./image/carousel/4.jpg");
+    height: 100vh;
+}
+.carusal-img3{
+    background-image: url("./image/carousel/5.jpg");
+    height: 100vh;
+}
+.client-image{
+    width: 130px;
+}
+.contact-icons{
+    width: 50px;
+}
